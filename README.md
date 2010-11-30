@@ -1,10 +1,10 @@
 # Subterfuge
 
-A library for event driven websocket browsing.
+A library for event driven websocket browsing. 
 
 ## Idea
 
-The idea for this project is to create a standard set of libraries to implement websocket based event driven browsing. 
+The idea for this project is to create a standard set of libraries to implement websocket based event driven browsing. It extends [em-websocket](http://www.igvita.com/2009/12/22/ruby-websockets-tcp-for-the-browser/) which makes use of [eventmachine](http://www.rubyeventmachine.com/).
 
 Specific uses:
 

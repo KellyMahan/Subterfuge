@@ -12,8 +12,6 @@ Gem::Specification.new do |s|
   s.summary     = %q{A library for event driven websocket browsing.}
   s.description = %q{A library for event driven websocket browsing.}
 
-  s.rubyforge_project = "em-websocket"
-
   s.files         = `git ls-files`.split("\n")
   s.require_paths = ["lib"]
 
