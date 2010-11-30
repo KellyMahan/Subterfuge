@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Kelly Mahan"]
   s.email       = ["kmahan@kmahan.com"]
-  s.homepage    = "http://github.com/kmahan/Subterfuge"
+  s.homepage    = "http://github.com/kellymahan/Subterfuge"
   s.summary     = %q{A library for event driven websocket browsing.}
   s.description = %q{A library for event driven websocket browsing.}
 
